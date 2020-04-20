@@ -1,0 +1,3 @@
+admin|admin00
+user1|user01
+user2|user02
